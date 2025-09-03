@@ -1,7 +1,7 @@
-using Exercises.FizzBuzz;
+using Exercises.Beginner.FizzBuzz;
 using Xunit;
 
-namespace Exercises.FizzBuzz.Tests;
+namespace Exercises.Beginner.FizzBuzz.Tests;
 
 public class FizzBuzzTests
 {

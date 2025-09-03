@@ -1,7 +1,7 @@
-using Exercises.Palindrome;
+using Exercises.Beginner.Palindrome;
 using Xunit;
 
-namespace Exercises.Palindrome.Tests;
+namespace Exercises.Beginner.Palindrome.Tests;
 
 public class PalindromeTests
 {

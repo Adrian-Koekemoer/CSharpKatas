@@ -1,7 +1,7 @@
-using Exercises.Gcd;
+using Exercises.Beginner.Gcd;
 using Xunit;
 
-namespace Exercises.Gcd.Tests;
+namespace Exercises.Beginner.Gcd.Tests;
 
 public class GcdTests
 {

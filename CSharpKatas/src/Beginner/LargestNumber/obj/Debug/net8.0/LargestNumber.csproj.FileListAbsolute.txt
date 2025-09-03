@@ -1,0 +1,12 @@
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\bin\Debug\net8.0\LargestNumber.deps.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\bin\Debug\net8.0\LargestNumber.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\bin\Debug\net8.0\LargestNumber.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\obj\Debug\net8.0\LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\obj\Debug\net8.0\LargestNumber.AssemblyInfoInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\obj\Debug\net8.0\LargestNumber.AssemblyInfo.cs
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\obj\Debug\net8.0\LargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\obj\Debug\net8.0\LargestNumber.sourcelink.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\obj\Debug\net8.0\LargestNumber.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\obj\Debug\net8.0\refint\LargestNumber.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\obj\Debug\net8.0\LargestNumber.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumber\obj\Debug\net8.0\ref\LargestNumber.dll

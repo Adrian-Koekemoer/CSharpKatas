@@ -1,4 +1,4 @@
-﻿namespace Exercises.Palindrome;
+﻿namespace Exercises.Beginner.Palindrome;
 
 public static class PalindromeUtil
 {

@@ -9,3 +9,4 @@ C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\FizzBuzz\obj
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json

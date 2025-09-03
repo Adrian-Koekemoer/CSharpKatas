@@ -1,0 +1,12 @@
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\bin\Debug\net8.0\CountVowels.deps.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\bin\Debug\net8.0\CountVowels.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\bin\Debug\net8.0\CountVowels.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\obj\Debug\net8.0\CountVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\obj\Debug\net8.0\CountVowels.AssemblyInfoInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\obj\Debug\net8.0\CountVowels.AssemblyInfo.cs
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\obj\Debug\net8.0\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\obj\Debug\net8.0\CountVowels.sourcelink.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\obj\Debug\net8.0\CountVowels.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\obj\Debug\net8.0\refint\CountVowels.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\obj\Debug\net8.0\CountVowels.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\CountVowels\obj\Debug\net8.0\ref\CountVowels.dll

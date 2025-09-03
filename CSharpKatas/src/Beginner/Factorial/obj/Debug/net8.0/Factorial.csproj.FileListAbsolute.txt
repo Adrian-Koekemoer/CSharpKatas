@@ -9,3 +9,4 @@ C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Factorial\ob
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Factorial\obj\Debug\net8.0\refint\Factorial.dll
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Factorial\obj\Debug\net8.0\Factorial.pdb
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Factorial\obj\Debug\net8.0\ref\Factorial.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Factorial\obj\Debug\net8.0\Factorial.sourcelink.json

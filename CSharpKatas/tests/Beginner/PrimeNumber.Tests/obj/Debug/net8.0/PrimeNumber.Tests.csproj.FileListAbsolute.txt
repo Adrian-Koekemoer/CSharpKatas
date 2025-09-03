@@ -100,3 +100,4 @@ C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\PrimeNumbe
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\PrimeNumber.Tests\obj\Debug\net8.0\PrimeNumber.Tests.pdb
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\PrimeNumber.Tests\obj\Debug\net8.0\PrimeNumber.Tests.genruntimeconfig.cache
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\PrimeNumber.Tests\obj\Debug\net8.0\ref\PrimeNumber.Tests.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\PrimeNumber.Tests\obj\Debug\net8.0\PrimeNumber.Tests.sourcelink.json

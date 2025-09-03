@@ -100,3 +100,4 @@ C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\FizzBuzz.T
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.pdb
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.genruntimeconfig.cache
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\FizzBuzz.Tests\obj\Debug\net8.0\ref\FizzBuzz.Tests.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.sourcelink.json

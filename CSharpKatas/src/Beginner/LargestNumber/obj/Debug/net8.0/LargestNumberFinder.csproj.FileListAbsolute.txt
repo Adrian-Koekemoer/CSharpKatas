@@ -1,0 +1,12 @@
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\bin\Debug\net8.0\LargestNumberFinder.deps.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\bin\Debug\net8.0\LargestNumberFinder.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\bin\Debug\net8.0\LargestNumberFinder.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\obj\Debug\net8.0\LargestNumberFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\obj\Debug\net8.0\LargestNumberFinder.AssemblyInfoInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\obj\Debug\net8.0\LargestNumberFinder.AssemblyInfo.cs
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\obj\Debug\net8.0\LargestNumberFinder.csproj.CoreCompileInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\obj\Debug\net8.0\LargestNumberFinder.sourcelink.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\obj\Debug\net8.0\LargestNumberFinder.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\obj\Debug\net8.0\refint\LargestNumberFinder.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\obj\Debug\net8.0\LargestNumberFinder.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\LargestNumberFinder\obj\Debug\net8.0\ref\LargestNumberFinder.dll

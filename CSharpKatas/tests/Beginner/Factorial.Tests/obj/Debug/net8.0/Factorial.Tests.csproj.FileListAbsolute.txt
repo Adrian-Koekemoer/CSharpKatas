@@ -100,3 +100,4 @@ C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\Factorial.
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\Factorial.Tests\obj\Debug\net8.0\Factorial.Tests.pdb
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\Factorial.Tests\obj\Debug\net8.0\Factorial.Tests.genruntimeconfig.cache
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\Factorial.Tests\obj\Debug\net8.0\ref\Factorial.Tests.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\tests\Beginner\Factorial.Tests\obj\Debug\net8.0\Factorial.Tests.sourcelink.json

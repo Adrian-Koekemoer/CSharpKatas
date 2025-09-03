@@ -1,4 +1,4 @@
-﻿namespace Exercises.Gcd;
+﻿namespace Exercises.Beginner.Gcd;
 
 public static class GcdMath
 {

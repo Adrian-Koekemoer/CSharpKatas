@@ -1,4 +1,4 @@
-﻿namespace Exercises.FizzBuzz;
+﻿namespace Exercises.Beginner.FizzBuzz;
 
 public static class FizzBuzzGen
 {

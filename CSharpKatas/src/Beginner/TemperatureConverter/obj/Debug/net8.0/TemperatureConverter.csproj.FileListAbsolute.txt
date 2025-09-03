@@ -1,0 +1,12 @@
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.deps.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfo.cs
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.sourcelink.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\obj\Debug\net8.0\refint\TemperatureConverter.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\TemperatureConverter\obj\Debug\net8.0\ref\TemperatureConverter.dll

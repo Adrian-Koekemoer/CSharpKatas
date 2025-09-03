@@ -1,7 +1,7 @@
-using Exercises.Factorial;
+using Exercises.Beginner.Factorial;
 using Xunit;
 
-namespace Exercises.Factorial.Tests;
+namespace Exercises.Beginner.Factorial.Tests;
 
 public class FactorialTests
 {

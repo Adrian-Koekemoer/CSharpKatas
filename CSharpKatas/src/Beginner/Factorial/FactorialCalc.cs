@@ -1,4 +1,4 @@
-﻿namespace Exercises.Factorial;
+﻿namespace Exercises.Beginner.Factorial;
 
 public static class FactorialCalc
 {

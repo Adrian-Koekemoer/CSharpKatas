@@ -9,3 +9,4 @@ C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Gcd\obj\Debu
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Gcd\obj\Debug\net8.0\refint\Gcd.dll
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Gcd\obj\Debug\net8.0\Gcd.pdb
 C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Gcd\obj\Debug\net8.0\ref\Gcd.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\Gcd\obj\Debug\net8.0\Gcd.sourcelink.json

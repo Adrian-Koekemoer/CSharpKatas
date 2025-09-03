@@ -1,7 +1,7 @@
-using Exercises.PrimeNumber;
+using Exercises.Beginner.PrimeNumber;
 using Xunit;
 
-namespace Exercises.PrimeNumber.Tests;
+namespace Exercises.Beginner.PrimeNumber.Tests;
 
 public class PrimeTests
 {

@@ -1,0 +1,12 @@
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\bin\Debug\net8.0\SumEvenNumbers.deps.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\bin\Debug\net8.0\SumEvenNumbers.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\bin\Debug\net8.0\SumEvenNumbers.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.AssemblyInfo.cs
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.sourcelink.json
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\obj\Debug\net8.0\refint\SumEvenNumbers.dll
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\obj\Debug\net8.0\SumEvenNumbers.pdb
+C:\Users\adriank\Documents\CSHARP_TRAINING\CSharpKatas\src\Beginner\SumEvenNumbers\obj\Debug\net8.0\ref\SumEvenNumbers.dll
